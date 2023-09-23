@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am curently a final year graduate student at New York University, pursuing Masters in Computer Science. I am interested in following roles: Data Engineer, Data Aanlyst, and Software Engineer.
+- 📫 How to reach me: mehtavaidisha@gmail.com
+
 <!--
 **VaidishaMehta/VaidishaMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
