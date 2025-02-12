@@ -79,13 +79,9 @@ Experience:
 ## My GitHub History 📈:
 <!--STATS -->
 <!-- Language stats: https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/VaidishaMehta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidishaMehta&layout=compact" />
-</a>
 <!-- GutHub Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<a href="https://github.com/VaidishaMehta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VaidishaMehta&theme=dracula" />
-</a>
+<a href="https://github.com/VaidishaMehta/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidishaMehta&layout=compact" /></a>&nbsp;
+<a href="https://github.com/VaidishaMehta/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VaidishaMehta&theme=dracula" /></a>
 
 <!-- Snake Game 
 ![Snake animation](https://github.com/VaidishaMehta/VaidishaMehta/blob/output/github-contribution-grid-snake.svg)
