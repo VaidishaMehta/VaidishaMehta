@@ -27,17 +27,19 @@ Here are some ideas to get you started:
 ```yaml
 Education:
   [
-    New York University - Master of Science in Computer Science,
-    Manipal University Jaipur - Bachelor of Technology in Computer Science,
+    Master of Science in Computer Science @New York University,
+    Bachelor of Technology in Computer Science @Manipal University Jaipur,
   ]
 
 Experience:
   [
-    New York University - Software Engineer,
-    Digital Fcatory - Technical Product Manager Intern,
-    Celebal Technologies - Data Engineer Intern,
-    Yoda Techologies - Software Engineer Intern,
+    Software Engineer @New York University,
+    Technical Product Manager Intern @Digital Fcatory,
+    Data Engineer Intern @Celebal Technologies,
+    Software Engineer Intern @Yoda Techologies,
   ]
+
+Skills
 ```
 - 🌱 I’m currently learning Data Science and GenAI
 - 📫 How to reach me: mehtavaidisha@gmail.com OR vsm2036@nyu.edu
