@@ -28,6 +28,7 @@
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 <!-- 🧰 -->
+
 #### Frameworks and libraries
 <p>
     <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
@@ -43,6 +44,7 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 <!-- 💾 -->
+
 #### Databases
 <p>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -50,6 +52,7 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 <!-- 💻 -->
+
 #### Software and tools
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=amazonwebservices&logoColor=white"></a>
@@ -72,5 +75,5 @@
 <a href="https://medium.com/@mehtavaidisha"><img height="30" src="https://img.icons8.com/?size=50&id=InFPHXxpBdjV&format=png&color=000000"/></a>&nbsp;
 
 ## My GitHub History 📈:
-<a href="https://github.com/VaidishaMehta/github-readme-stats" style="display: inline-block;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidishaMehta&layout=compact"/></a>&nbsp;&nbsp;
+<a href="https://github.com/VaidishaMehta/github-readme-stats" style="display: inline-block;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidishaMehta&layout=compact"/></a>
 <a href="https://github.com/VaidishaMehta/github-readme-stats" style="display: inline-block;"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VaidishaMehta&theme=react&show_icons=true&count_private=true"/></a>
